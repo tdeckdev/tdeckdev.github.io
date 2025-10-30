@@ -2,6 +2,7 @@
 layout: post
 title: "A dawn and a sunset"
 date: 2025-10-29
+author: TDeck
 categories: blog
 ---
 

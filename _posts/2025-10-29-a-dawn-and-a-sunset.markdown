@@ -4,6 +4,8 @@ title: "A dawn and a sunset"
 date: 2025-10-29
 author: TDeck
 categories: blog
+tags:
+  - blog
 ---
 
 I really don't know how to begin, to be quite honest. It took me an agonizing 3 hours to set this repo up due to Arch and Ruby shenanigans, and now I'm finding myself with little to say and barely able to stay awake. But what I do know is that I hope this is beginning of something great.
